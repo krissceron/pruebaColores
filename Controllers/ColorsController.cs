@@ -23,4 +23,5 @@ namespace ColoresApiPrueba.Controllers
         }
     }
     public record ColorDto(int Id, string Nombre, string Hex);
+    //comentario
 }
