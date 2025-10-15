@@ -1,0 +1,6 @@
+@ColoresApiPrueba_HostAddress = http://localhost:5278
+
+GET {{ColoresApiPrueba_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
